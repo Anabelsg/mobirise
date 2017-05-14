@@ -241,8 +241,8 @@
             }
           },
           "title": "¡HOLA!",
-          "text": "Mi nombre es Anabel, soy graduada en Publicidad y Relaciones Pública por la Universidad de Málaga y apasionada de las cuentas.&nbsp;<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://anabelsanchezg.blogspot.es/1492456011/bienvenidos-/\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "text": "Mi nombre es Anabel, soy graduada en Publicidad y Relaciones Pública por la Universidad de Málaga. A pesar de mi corta experiencia, trabajo con mucho esfuerzo e ilusión por lo que hago. Mi debilidad son las cuentas intento ser flexible y trabajar en todos los ámbitos de la publicidad entra en mi espacio para saberlo todo sobre mí. &nbsp;<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://anabelsanchezg.blogspot.es/1492456011/bienvenidos-/\" data-toolbar=\"-mbrBtnMove\">PARA SABER MÁS</a>"
         },
         {
           "_inherit": "gallery1",
